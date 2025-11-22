@@ -10,6 +10,14 @@
 
 ###
 
+<br clear="both">
+
+<div align="right">
+  <img height="250" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bzh0bmcyMXV3cTVyOHpodW9nbjlmcnZzODhoNWFmeTJ0MTNmdjU1dyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/uhXxGTTyBfKk7iBU40/giphy.gif"  />
+</div>
+
+###
+
 <p align="left">🔧 Build projects that solve real problems<br><br>🌐 Develop web applications & interactive tools<br><br>📚 Constantly learning new frameworks, languages, and best practices<br><br>🤝 Collaborate on open-source and community projects</p>
 
 ###
@@ -103,17 +111,10 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="/mnt/data/ezgif.com-video-to-gif-converter.gif">
-  <source media="(prefers-color-scheme: light)" srcset="/mnt/data/ezgif.com-video-to-gif-converter.gif">
-  <img alt="workspace gif" src="/mnt/data/ezgif.com-video-to-gif-converter.gif">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
 </picture>
-
-
-###
-
-<div align="center">
-  <img height="200" src="https://www.canva.com/design/DAG5YOgUJjU/vWhWcHqIy2PC49gdsQxBAQ/edit?utm_content=DAG5YOgUJjU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"  />
-</div>
 
 ###
 
