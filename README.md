@@ -103,10 +103,11 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Mr-MadCruzer/Mr-MadCruzer/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="/mnt/data/ezgif.com-video-to-gif-converter.gif">
+  <source media="(prefers-color-scheme: light)" srcset="/mnt/data/ezgif.com-video-to-gif-converter.gif">
+  <img alt="workspace gif" src="/mnt/data/ezgif.com-video-to-gif-converter.gif">
 </picture>
+
 
 ###
 
